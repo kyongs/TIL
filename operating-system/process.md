@@ -1,4 +1,4 @@
-# Process
+# Main Characteristics
 
 ## Our Vision
 

@@ -8,7 +8,7 @@ TPC-C is the standard OLTP benchmark.&#x20;
 2. District
 3. Stock
 4. Item
-5. New-Oder
+5. New-Order
 6. Order-Line
 7. Customer
 8. Order
@@ -28,9 +28,23 @@ TPC-C is the standard OLTP benchmark.&#x20;
 
 **Performance Metric**
 
-New-Order
+Metrics are new-order txn rate (tpmC) and price/performance($/tpmC)
 
 
 
+RampUp Time
 
+After ramp-up time, performance stays stable.
+
+![](<../../.gitbook/assets/스크린샷 2022-08-03 오후 5.13.52.png>)
+
+TPC-C spec 5.6.4 figure
+
+
+
+recommendation: ramp-up time (20min), measurement interval(120minutes)
+
+References
+
+[https://www.tpc.org/tpc\_documents\_current\_versions/pdf/tpc-c\_v5.11.0.pdf](https://www.tpc.org/tpc\_documents\_current\_versions/pdf/tpc-c\_v5.11.0.pdf)
 
