@@ -25,4 +25,4 @@
   * [Overview](benchmark/tpc-c/overview.md)
   * [Tables](benchmark/tpc-c/tables.md)
   * [Transactions](benchmark/tpc-c/transactions.md)
-* [Page 1](benchmark/page-1.md)
+* [LinkBench](benchmark/linkbench.md)
